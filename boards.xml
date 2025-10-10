@@ -6,4 +6,6 @@
    <board>C:\Users\cncse\Work\CarWash\PCB\Relay_old\pnp\RelayBoardCarWash_top_NO_FRQ.board.xml</board>
    <board>C:\Users\cncse\Work\CarWash\PCB\Relay_old\pnp\RelayBoardCarWash_bot.board.xml</board>
    <board>C:\Users\cncse\Work\CarWash\PCB\Relay\Relay\pnp\CarWashNewRelay.board.xml</board>
+   <board>C:\Users\cncse\Work\KiCad\PRJ\Beer_4_220\pnp\Beer_4_220.board.xml</board>
+   <board>C:\Users\cncse\Work\KiCad\PRJ\Molprom\Molprom_12_24\pnp\Molprom_12_24.board.xml</board>
 </openpnp-boards>
