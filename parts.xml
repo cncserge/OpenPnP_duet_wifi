@@ -34,4 +34,12 @@
    <part bottom-vision-id="BVS18607e9c87300cf8" id="SK56" height-units="Millimeters" height="2.0" package-id="SMB" speed="1.0" pick-retry-count="0"/>
    <part bottom-vision-id="BVS185bb10771a9dba0" id="C0805_150pf" height-units="Millimeters" height="0.3" package-id="C0805" speed="1.0" pick-retry-count="0"/>
    <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_24.9K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_3.3K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_0" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_750" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_120" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_12K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_33" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_4.7K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_2.2uf_50v" height-units="Millimeters" height="1.5" package-id="C1206" speed="1.0" pick-retry-count="0"/>
 </openpnp-parts>
