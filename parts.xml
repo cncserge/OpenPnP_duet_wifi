@@ -44,4 +44,5 @@
    <part bottom-vision-id="BVS185bfac228d70538" id="C1206_2.2uf_50v" height-units="Millimeters" height="1.5" package-id="C1206" speed="1.0" pick-retry-count="0"/>
    <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_51" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
    <part bottom-vision-id="BVS185bfac228d70538" id="C1206_33nf" height-units="Millimeters" height="0.4" package-id="C1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfc7dd3dafe8c" id="BC807" height-units="Millimeters" height="0.4" package-id="SOT-23" speed="1.0" pick-retry-count="0"/>
 </openpnp-parts>
