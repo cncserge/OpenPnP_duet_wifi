@@ -3,11 +3,11 @@
    <board>C:\Users\cncse\Work\KiCad\PRJ\E_PLC\CAN_I2C_DO_DI_8\pnp\CAN_I2C_DO_DI_8.board.xml</board>
    <board>C:\Users\cncse\Work\KiCad\PRJ\Rotary table\PNP\Rotary_table.board.xml</board>
    <board>C:\Users\cncse\Work\WendingAgeOfAquarius\pcb\PNP\WendingAgeOfAquarius.board.xml</board>
-   <board>C:\Users\cncse\Work\CarWash\PCB\Relay_old\pnp\RelayBoardCarWash_top_NO_FRQ.board.xml</board>
-   <board>C:\Users\cncse\Work\CarWash\PCB\Relay_old\pnp\RelayBoardCarWash_bot.board.xml</board>
-   <board>C:\Users\cncse\Work\CarWash\PCB\Relay\Relay\pnp\CarWashNewRelay.board.xml</board>
    <board>C:\Users\cncse\Work\KiCad\PRJ\Beer_4_220\pnp\Beer_4_220.board.xml</board>
    <board>C:\Users\cncse\Work\KiCad\PRJ\Molprom\Molprom_12_24\pnp\Molprom_12_24.board.xml</board>
    <board>C:\Users\cncse\Work\CarWash\PCB\LED_PANEL\pnp\CarWash_led_panel.board.xml</board>
    <board>C:\Users\cncse\Work\CarWash\PCB\pnp_main_board\CarWash_main.board.xml</board>
+   <board>C:\Users\cncse\Work\CarWash\PCB\Rlay_ssr\pnp\CarWash_relay_ssr.board.xml</board>
+   <board>C:\Users\cncse\Work\CarWash\PCB\Relay_old\pnp\RelayBoardCarWash_top_NO_FRQ.board.xml</board>
+   <board>C:\Users\cncse\Work\CarWash\PCB\Relay_old\pnp\RelayBoardCarWash_bot.board.xml</board>
 </openpnp-boards>
