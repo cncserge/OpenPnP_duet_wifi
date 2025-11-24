@@ -281,7 +281,7 @@
       <compatible-nozzle-tip-ids class="java.util.ArrayList"/>
    </package>
    <package version="1.1" bottom-vision-id="BVS186077a0cff47ecc" id="SOT-223-3" pick-vacuum-level="0.0" place-blow-off-level="0.0">
-      <footprint units="Millimeters" body-width="0.0" body-height="0.0" outer-dimension="0.0" inner-dimension="0.0" pad-count="0" pad-pitch="0.0" pad-across="0.0" pad-roundness="0.0">
+      <footprint units="Millimeters" body-width="8.0" body-height="8.0" outer-dimension="0.0" inner-dimension="0.0" pad-count="0" pad-pitch="0.0" pad-across="0.0" pad-roundness="0.0">
          <pad name="2" x="3.15" y="-0.0" width="2.0" height="3.8" rotation="0.0" roundness="0.0"/>
          <pad name="2" x="-3.15" y="-0.0" width="2.0" height="1.5" rotation="0.0" roundness="0.0"/>
          <pad name="3" x="-3.15" y="-2.3" width="2.0" height="1.5" rotation="0.0" roundness="0.0"/>
