@@ -1,49 +1,49 @@
 <openpnp-parts>
-   <part bottom-vision-id="BVS18551f24d644ce38" id="1N4148W" height-units="Millimeters" height="0.5" package-id="SOD123" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS185bfc7dd3dafe8c" id="MMBT2222A" height-units="Millimeters" height="0.4" package-id="SOT-23" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS1856aaa8fd962fc0" id="PC817" height-units="Millimeters" height="3.5" package-id="SMDIP4" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_750" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_100K" height-units="Millimeters" height="0.4" package-id="R0805" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS185bb10771a9dba0" id="C0805_100nf" height-units="Millimeters" height="0.3" package-id="C0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_10K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_240" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_2K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_7.5K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_10" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_10K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_100nf" height-units="Millimeters" height="0.4" package-id="C1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_240" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="3"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_2K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_22K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_1K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_16K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_49.9" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_750K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_82K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_24K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_1uf_50v" height-units="Millimeters" height="1.5" package-id="C1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_47uf_6.3v" height-units="Millimeters" height="1.5" package-id="C1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_1.2K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185c00cd2673649c" id="LED1206_R" height-units="Millimeters" height="0.4" package-id="LED1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_3K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185c0307a5610930" id="ESP32_WROOM_32UE" height-units="Millimeters" height="3.3" package-id="ESP32_WROOM_32UE" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185c03951e8ca110" id="ESP32_WROOM_32E" height-units="Millimeters" height="3.3" package-id="ESP32_WROOM_32E" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS186077a0cff47ecc" id="AMS1117-3.3" height-units="Millimeters" height="1.6" package-id="SOT-223-3" speed="1.0" pick-retry-count="0"/>
-   <part id="LTV-214-B-G" height-units="Millimeters" height="2.0" package-id="SSOP-4_4.4x2.6" speed="1.0" pick-retry-count="0"/>
-   <part id="MAX3485" height-units="Millimeters" height="1.27" package-id="SOIC_8" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18607e9c87300cf8" id="SK56" height-units="Millimeters" height="2.0" package-id="SMB" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb10771a9dba0" id="C0805_150pf" height-units="Millimeters" height="0.3" package-id="C0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_24.9K" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_3.3K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_0" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_750" height-units="Millimeters" height="0.3" package-id="R0805" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_120" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_12K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_33" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_4.7K" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_2.2uf_50v" height-units="Millimeters" height="1.5" package-id="C1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_51" height-units="Millimeters" height="0.4" package-id="R1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_33nf" height-units="Millimeters" height="0.4" package-id="C1206" speed="1.0" pick-retry-count="0"/>
-   <part bottom-vision-id="BVS185bfc7dd3dafe8c" id="BC807" height-units="Millimeters" height="0.4" package-id="SOT-23" speed="1.0" pick-retry-count="0"/>
-   <part id="TLP240" height-units="Millimeters" height="4.0" package-id="SMDIP4" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551f24d644ce38" id="1N4148W" height-units="Millimeters" height="0.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SOD123" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS185bfc7dd3dafe8c" id="MMBT2222A" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SOT-23" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS1856aaa8fd962fc0" id="PC817" height-units="Millimeters" height="3.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SMDIP4" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_750" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_100K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS185bb10771a9dba0" id="C0805_100nf" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_10K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_240" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_2K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_7.5K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_10" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_10K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_100nf" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_240" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="3"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_2K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_22K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_1K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_16K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_49.9" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_750K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_82K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_24K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_1uf_50v" height-units="Millimeters" height="1.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_47uf_6.3v" height-units="Millimeters" height="1.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_1.2K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185c00cd2673649c" id="LED1206_R" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="LED1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_3K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185c0307a5610930" id="ESP32_WROOM_32UE" height-units="Millimeters" height="3.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="ESP32_WROOM_32UE" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185c03951e8ca110" id="ESP32_WROOM_32E" height-units="Millimeters" height="3.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="ESP32_WROOM_32E" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS186077a0cff47ecc" id="AMS1117-3.3" height-units="Millimeters" height="1.6" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SOT-223-3" speed="1.0" pick-retry-count="0"/>
+   <part id="LTV-214-B-G" height-units="Millimeters" height="2.0" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SSOP-4_4.4x2.6" speed="1.0" pick-retry-count="0"/>
+   <part id="MAX3485" height-units="Millimeters" height="1.27" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SOIC_8" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18607e9c87300cf8" id="SK56" height-units="Millimeters" height="2.0" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SMB" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb10771a9dba0" id="C0805_150pf" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_24.9K" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_3.3K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_0" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bb2c490c8ab74" id="R0805_750" height-units="Millimeters" height="0.3" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_120" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_12K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_33" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_4.7K" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_2.2uf_50v" height-units="Millimeters" height="1.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS18551e5e7a6770f0" id="R1206_51" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfac228d70538" id="C1206_33nf" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="C1206" speed="1.0" pick-retry-count="0"/>
+   <part bottom-vision-id="BVS185bfc7dd3dafe8c" id="BC807" height-units="Millimeters" height="0.4" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SOT-23" speed="1.0" pick-retry-count="0"/>
+   <part id="TLP240" height-units="Millimeters" height="4.0" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="SMDIP4" speed="1.0" pick-retry-count="0"/>
 </openpnp-parts>
