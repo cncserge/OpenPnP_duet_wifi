@@ -1,4 +1,4 @@
 <openpnp-boards>
-   <board>/home/serge/Work/CarWash/PCB/pnp_main_board/CarWash_main.board.xml</board>
-   <board>/home/serge/Work/CarWash/PCB/LED_PANEL/pnp/CarWash_led_panel.board.xml</board>
+   <board>C:\Users\cncserge\Work\Chees_4_220\pnp\Chees_4_220_top.board.xml</board>
+   <board>C:\Users\cncserge\Work\KiCad\PRJ\Molprom\Molprom_12_24\pnp\Molprom_12_24.board.xml</board>
 </openpnp-boards>
